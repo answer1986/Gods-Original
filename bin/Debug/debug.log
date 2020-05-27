@@ -1,0 +1,5 @@
+[0122/230204.803:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0123/090000.575:ERROR:file_io_win.cc(161)] CreateFile C:\Users\hp\AppData\Local\Temp\scoped_dir888_714442722\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0123/090000.590:ERROR:file_io_win.cc(170)] CreateFile C:\Users\hp\AppData\Local\Temp\scoped_dir888_714442722\Crashpad\reports\d7d4277e-cc89-428f-8990-42d33caee02a.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0123/090000.590:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0124/141617.989:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
